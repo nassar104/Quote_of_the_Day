@@ -1,0 +1,29 @@
+#home {
+    background-image: url('../pic/bg.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+#home .home-layer {
+    background-color: rgba(0, 0, 0, 0.7);
+    min-height: 100vh;
+    width: 100%;
+}
+
+#home .home-layer .home-context {
+    color: aliceblue;
+
+}
+.pris{
+    margin: auto;
+    width: 50%;
+    height: 60px;
+    text-align: center;
+}
+
+
+
+
+
